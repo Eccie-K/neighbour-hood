@@ -1,0 +1,8 @@
+django-bootstrap==11.1.0
+psycopg2==2.8.3
+pillow==6.1.0
+django-smartfields==1.1.0
+python-decouple==3.1
+django-registration==2.4.1
+bootstrap4==0.0.8
+django-material==1.5.8
