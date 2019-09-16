@@ -30,7 +30,7 @@ Esther Kirui
 
 <h2>Set Up Instructions and Requirements</h2>
 To start using this project use the following commands:<br>
-- git clone https://github.com/Eccie-K/neighbourhood<br>
+- git clone https://github.com/Eccie-K/neighbour-hood<br>
 - From your terminal, type "cd photo-gallery" without quotation marks.<br>
 - Open with an editor of your choice. <br>
 - If using atom, type:(atom .), if using visual studio, type (code .) without the brackets.<br>
@@ -56,4 +56,4 @@ Mobile:+254775946131<br>
 Email:estherkc100@gmail.com<br>
 
 <h2>License and Copyright Information</h2>
-https://github.com/Eccie-K/awards/blob/master/LICENSE.md
+https://github.com/Eccie-K/neighbour-hood/blob/master/LICENSE.md
