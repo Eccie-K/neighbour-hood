@@ -6,3 +6,4 @@ python-decouple==3.1
 django-registration==2.4.1
 bootstrap4==0.0.8
 django-material==1.5.8
+gunicorn==19.9.0
